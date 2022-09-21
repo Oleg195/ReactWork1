@@ -1,0 +1,36 @@
+.language-jsx {
+    padding: 20px;
+    display: block;
+    background: black;
+    color: white;
+  }
+   
+  .language-jsx .keyword {
+    color: tomato;
+  }
+   
+  .language-jsx .function {
+    color: green;
+    font-weight: bold;
+  }
+   
+  .language-jsx .operator {
+    color: red;
+  }
+   
+  .language-jsx .punctuation{
+    color: blue;
+    font-size: 0.9rem;
+  }
+   
+  .language-jsx .tag {
+    color: darkcyan;
+  }
+   
+  .language-jsx .comment {
+    color: gray;
+  }
+   
+  .language-jsx .parameter {
+    color: bisque;
+  }

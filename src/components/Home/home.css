@@ -1,0 +1,70 @@
+
+.inform{padding: 135px 0px; font-size:56px;background-position: center;}
+.sl{padding: 56px; color:white ;}
+.inform{background-image: url(https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/blt69459fd45cf9dde4/5f2dd6b88ea4aa55f2329d53/careers-5.webp?auto=webp);
+    background-size: cover;}
+    h3{font-size: 40px;}
+h2{font-size: 68px;}
+p{font-size: 16px;}
+
+
+.list{
+  height: 242px;
+  background: #f0f0f0;}
+
+.b-games-features {
+      width: 1000px;
+      height: 242px;
+      background: #f0f0f0;
+      margin: 0 -30px;}
+.b-games-features__list {
+          width: 940px;
+          margin: 0 auto;
+          white-space: normal;}
+.b-games-features__list-item {
+              display: inline-block;
+              width: 33%;
+              height: 122px;
+              padding-top: 120px;
+              text-align: center;
+              position: relative;}
+
+.b-games-features__list-item-description {
+                  font-size: 12px;
+                  line-height: 15px;
+                  font-family: Arial,sans-serif;
+                  color: #999;
+                  display: block;}
+              
+.b-games-features__br {
+                      display: block;}
+                      .b-games-features__list-item-chapter {
+                          display: block;
+                          font-size: 16px;
+                          line-height: 24px;
+                          font-family: open_sanslight,Helvetica,Arial,sans-serif;
+                          color: #373736;
+                          margin-bottom: 8px;
+                          font-weight: 400;}
+.b-games-features__list-item-ico {
+      position: absolute;
+      top: 40px;
+      left: 50%;}
+
+.b-games-features__list-item-ico_2 {
+          width: 60px;
+          height: 60px;
+          background: url(https://gamenet.ru/images/0.5/sprite-games.png) 0 -175px no-repeat;
+          margin-left: -30px;}
+          
+.b-games-features__list-item-ico_3 {
+  width: 52px;
+  height: 52px;
+  background: url(https://gamenet.ru/images/0.5/sprite-games.png) 0 -250px no-repeat;
+  margin-left: -26px;}
+
+  .b-games-features__list-item-ico_4 {
+      width: 38px;
+      height: 60px;
+      background: url(https://gamenet.ru/images/0.5/sprite-games.png) 0 -325px no-repeat;
+      margin-left: -19px;}

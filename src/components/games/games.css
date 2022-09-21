@@ -1,0 +1,58 @@
+.clear{clear: both;}
+.game{background-image: url(https://d9me64que7cqs.cloudfront.net/images/common/background-generic-landscape-short.31b43a7….jpg);
+    height: 1200px;
+    background-repeat: no-repeat;}
+.game-src{text-align:center;}
+.game-src a img:hover{box-shadow: 0px 0px 14px 4px rgb(255, 255, 255);width:230px ;height:330px; margin:0px;}
+.game-src img{width:220px; margin: 8px 8px;} 
+.zagolovok-game {font-size: 44px;
+color: white;
+float: left;
+width: 34%}
+.war {
+    height: 293px;}
+.vse-game a{color: #00aeff; width: 100%;}
+.vse-game a :hover, .vse-game a:focus{color: #fff; text-shadow: 0px 0px;}
+.vse-game{float: right;
+padding-top: 33px}
+
+
+
+ a.block {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    width: 230px;
+    height: 300px;
+
+  }
+  .block img {
+    display: block;
+    position: relative;
+    width:220px; margin: 8px 8px;
+  }
+.block__text {
+    display: block;
+    position: absolute;
+
+    right: 0;
+    bottom: 0;
+ 
+    background-color: #6e6eaf;
+    opacity: 0;
+    -webkit-transition: all 0.7s ease-in-out;
+    -moz-transition: all 0.7s ease-in-out;
+    -ms-transition: all 0.7s ease-in-out;
+    -o-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
+  }
+  
+  a:hover .block__text {
+    
+    opacity: 0.8;
+  }
+  
+  h3,
+  p {
+     text-align: center;
+  }

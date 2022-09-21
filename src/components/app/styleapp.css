@@ -1,0 +1,42 @@
+.app {
+    margin: 0 auto;
+    max-width: 1400px;
+  }
+  
+  
+
+  .menu{
+    border: 1px black dashed;margin: 5px 0px;margin-top: 0px;background-color: black;
+    color: white; height: 60px;color: #ffc; text-decoration: none; text-align:right}
+    .menu a{margin-top: 0px;
+         color: white;color: #ffc; text-decoration: none; text-align:right}
+    .menu a:hover{color: aliceblue; text-decoration:none;} 
+
+.logotip, .mmm1, .mmm2{ display:inline-block;}
+.logotip{ width: 100px;}
+.logotip, .mmm1{float: left;}
+.mmm1{margin: 18px;}
+.mmm1 a, .mmm2 a{text-transform: uppercase;
+margin-right:25px;}
+.content{width: 1400px;margin: 0 auto; margin: 0 auto;} 
+img.logos{width:50px;}
+ul{list-style-type:none;color: red}
+li.naw:after{content:'\02ef';
+bottom: 8px;
+font-size: 40px;
+position: relative;}
+li{display: inline-block; text-transform: uppercase;
+color: rgba(255,255,255, 0.7);}
+
+.shop-cart-button{
+  float: left;
+  cursor: pointer;
+
+  transition: color 500ms ease;
+}
+.shop-cart-button:hover,
+.shop-cart-button.active{ color: crimson;
+
+}
+
+.shop-cart-button{margin: 10px;}
