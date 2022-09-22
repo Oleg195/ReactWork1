@@ -8,7 +8,7 @@ import Shop from './shop/shop.js';
 import About from "./about/about";
 import Company from "./Company/Company.js";
 import Working from './Working/Working.js';
-import facebook from 'https://www.facebook.com/';
+
 
 class App extends React.Component{
 
@@ -24,9 +24,7 @@ class App extends React.Component{
         <Route path='User/' element={<User />} />
         <Route path='Company/' element={<Company/>}/>
         <Route path='Working/' element={<Working />} />
-        <Route path='/facebook' component={() => {
-          window.location.href = 'https://www.facebook.com/'
-      }}/>
+
       </Routes>
 
     )

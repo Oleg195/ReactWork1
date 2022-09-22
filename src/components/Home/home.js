@@ -2,15 +2,17 @@ import React, {Component} from 'react';
 import { Link } from 'react-router-dom';
 import "./home.css";
 import Carousel from "../Carousel/Carousel.js"
+
 export default class Home extends React.Component{
     render(){
         return(
 
             <div>
                             <Carousel/>
-                Home
-                Приветствуем на сайте онлайн-игр всех мастей.
-                у нас самый лучший выбор по жанрам и платформам.
+
+<div className='Welcom'><h2 className='Wt'>Приветствуем на сайте <br/> онлайн-игр всех мастей.<br/>
+                у нас самый лучший выбор <br/> по жанрам и платформам.</h2></div>
+                
                 <div class="inform"><div class="content">
         <div class="sl">
        <h2>Создавайте новые миры</h2>

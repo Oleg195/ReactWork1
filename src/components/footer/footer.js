@@ -12,7 +12,7 @@ import '../footer/footer.css';
 
      
     <div class="Corp-menu-1">
-        <div><Link to="Working">РАБОТА В Game-net</Link></div>
+        <div><Link to="Working">РАБОТА В GOD_OF_GAMES</Link></div>
         <div> <Link to="/Company">О КОМПАНИИ</Link></div>
             <div><Link to="/help">ПОДДЕРЖКА</Link></div>
             <div><a href="#">ОТКРЫТЬ ЗАПРОС</a></div>
@@ -22,9 +22,9 @@ import '../footer/footer.css';
  </div>  
 
 
-        <div class="Corp-info">Все игры в одном приложении:<img src="https://gamenet.ru/images/header/logo.png"/><a href="#"> Приложение Game-net.com</a></div>
+        <div class="Corp-info">Все игры в одном приложении:<img src="https://gamenet.ru/images/header/logo.png"/><a href="#"> Приложение GOD OF GAMES.com</a></div>
 
-<p><span>©&nbsp;2010&nbsp;–&nbsp;2022&nbsp;</span><a href="/">GameNet.ru</a></p>
+<p><span>©&nbsp;2010&nbsp;–&nbsp;2022&nbsp;</span><a href="/">GOD OF GAMES.ru</a></p>
  <p>Все упомянутые товарные знаки являются собственностью соответствующих владельцев.</p>
  
 

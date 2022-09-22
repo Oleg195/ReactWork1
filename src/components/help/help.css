@@ -3,6 +3,7 @@
     display: inline-flex; /*располагаем блоки в ряд по горизонтали*/
 height: 500px;
 width: 25%;
+margin-inline-start: 100px;
     }
 
 .verticalaccordion>ul {

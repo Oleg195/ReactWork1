@@ -6,10 +6,10 @@ import slide3 from "../Img/3.jpg";
 import slide4 from "../Img/4.jpg";
 
 const img = [
-    <img key={slide1} src = {require ("../Img/1.jpg")}/>,
-    <img key={slide2} src = {require ("../Img/2.jpg")}/>,
-    <img key={slide3} src = {require ("../Img/3.jpg")}/>,
-    <img key={slide4} src = {require ("../Img/4.jpg")}/>,
+    <img className="img-car" key={slide1} src = {require ("../Img/1-1.png")}/>,
+    <img className="img-car" key={slide2} src = {require ("../Img/1-2.png")}/>,
+    <img className="img-car" key={slide3} src = {require ("../Img/1-3.png")}/>,
+    <img className="img-car" key={slide4} src = {require ("../Img/1-4.png")}/>,
 
 ]
 export function Slider() {

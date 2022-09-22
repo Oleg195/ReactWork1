@@ -5,7 +5,7 @@ function help() {
       <div>
         <h2>Есть вопрос?</h2>
         <div>
-        <div className="verticalaccordion box">
+        <div className="verticalaccordion box ">
         <ul >
             <li><h3>Промокоды</h3>
             <div><p>Промокоды-.....</p>
@@ -29,10 +29,7 @@ function help() {
 </div></li>
 <li> <h3>Игра</h3>
 <div><p>Название</p></div></li>
-<li><h3>NetStorm</h3>
-<div><h1>Кристалы/Миниралы</h1>
-<p>Основной ресурс игры</p>
-</div></li>
+
 <li> <h3>Diablo</h3>
 <div><p>Стратегия в жанре темного фентези</p></div></li>
             <li><h3>Albion Online</h3>
@@ -53,22 +50,13 @@ function help() {
 <li> <h3>Сombat Arms</h3>
 <div><p>Ураганный шутер от первого лица</p>
 <p>Режимы: PvP,Компания, Карантин.</p></div></li>
-<li><h3>Тех-работы</h3>
-<div><p>Иногда игры отключаются на 30-40 минут по причинам обновлений или исправлений багов</p>
-<p>Об проведении вас уведомляют в самой игре</p>
-</div></li>
-<li> <h3></h3>
-<div><p></p></div></li></ul>
-</div>
 
-<div className="verticalaccordion box" >
-<ul >
+
 <li><h3>NetStorm</h3>
 <div><h1>Кристалы/Миниралы</h1>
 <p>Основной ресурс игры</p>
 <h1>Жрец</h1>
 <p>Главный юнит - его потеря знаменует конец игры.В случае вражеского жреца вы получает основной ресурс игры и знания/технологию вашего противника</p>
-
 </div></li>
 <li> <h3>Sao Online</h3>
 <div><p>Игра в жанре...</p></div></li></ul>

@@ -1,0 +1,33 @@
+.centre{text-align: center;
+background-position: center;
+margin-left: 25%
+};
+
+.img13{background-image: url(https://gamebomb.ru/files/galleries/001/d/d4/335296.jpg);
+    background-size: cover;}
+    h3{font-size: 40px;}
+h2{font-size: 68px;}
+p{font-size: 16px;}
+
+.tekst_sverhu_kartinki_1 {
+
+    position: absolute;
+    
+    bottom: 10%;
+    
+    text-transform: uppercase;
+    
+    color: #c9c9c9;
+    
+    width: 300px;
+    
+    }
+.tekst_sverhu_kartinki_1 span {
+
+    font: bold 24px/44px Helvetica, Sans-Serif;
+    
+    background: #00000094;
+    
+    padding: 8px;
+    
+    }

@@ -7,7 +7,18 @@
 h2{font-size: 68px;}
 p{font-size: 16px;}
 
+.Welcom{background-image: url(https://alogvinov.com/wp-content/uploads/2013/12/567900-1680x1050.jpg);
+width: 100%;;
 
+
+}
+.Wt{color:rgb(9, 101, 101);
+  height: 500px;
+
+
+ text-align: center;
+ 
+}
 .list{
   height: 242px;
   background: #f0f0f0;}

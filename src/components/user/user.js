@@ -1,9 +1,15 @@
-function User() {
-    return (
-      <div>
-        
-      </div>
-    );
-  }
+import React, { useState, Component } from "react";
+import Registre from "../Registr/Registre";
 
-  export default User;
+  class User extends Component{
+
+    render() {
+  
+     return (
+    <div>
+      <Registre/>
+        </div>
+    )
+     }}
+
+     export default User;
