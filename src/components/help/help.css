@@ -1,9 +1,10 @@
 
 .box {
     display: inline-flex; /*располагаем блоки в ряд по горизонтали*/
-height: 500px;
+height: 650px;
 width: 25%;
 margin-inline-start: 100px;
+background-position: center;
     }
 
 .verticalaccordion>ul {
@@ -18,10 +19,10 @@ margin-inline-start: 100px;
     margin: 0;
     padding: 0;
     list-style:none;
-    height:60px;
-    width: 300px;
+    height:50px;
+    width: 295px;
     /* Decorative CSS */
-    background-color:#161bac;
+    background-color:#abaccc;
     /* CSS3 Transition Effect */
     transition: height 0.3s ease-in-out;
     -moz-transition: height 0.3s ease-in-out;
@@ -31,8 +32,8 @@ margin-inline-start: 100px;
 .verticalaccordion>ul>li>h3 {
     display:block;
     margin: 0;
-    padding:20px;
-    height:30px;
+    padding:12px;
+    height:25px;
     /* Decorative CSS */
     border-top:#f0f0f0 1px solid;
     font-family: Arial, Helvetica, sans-serif;
